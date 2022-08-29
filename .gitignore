@@ -1,0 +1,6 @@
+/selenide_final_work.zip
+
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/test/
